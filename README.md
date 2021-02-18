@@ -9,4 +9,5 @@ __Instructions__
 > 3: Put whatever you want as the license, but it cannot have any spaces.<br />
 > 4: Have fun?<br />
 
-Does not work on 1909 or (afaik) 1903 because omen is a wet donny bruv.
+Does not work on 1909 or (afaik) 1903 because omen is a wet donny bruv.<br />
+Edit: Fixed the fact that it will refuse to inject. It is also now completely independent of the server and will work until the next game update.
