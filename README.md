@@ -1,6 +1,6 @@
 # NinjaCrack
-Original github repo: https://github.com/EikoUwU/R6NinjaCrack<br />
-He took down xtc.ninja/ninja/connecttest.php so I'm releasing this new version to bypass that fact =D<br />
+Original github repo: https://github.com/EikoUwU/R6NinjaCrack.<br />
+He took down xtc.ninja/ninja/connecttest.php so I'm releasing this new version to bypass that fact =D.<br />
 This also contains the image he injects into the game, along with a .i64 from my 5 seconds of reversing.
 
 __Instructions__
